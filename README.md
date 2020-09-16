@@ -1,0 +1,1 @@
+# mvvvm-base-structure
